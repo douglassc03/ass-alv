@@ -7,7 +7,7 @@ export default function Header() {
       <div className="container header__inner">
         <div className="brand">
           <div className="brand__logo" aria-hidden="true">
-             <img src="/public/logo-ass.png" alt="Logo" />
+             <img src="/logo-ass.png" alt="Logo" />
           </div>
           <div className="brand__text">
             <strong>Agência ASS - Tráfego Pago</strong>
