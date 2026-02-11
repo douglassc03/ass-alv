@@ -15,7 +15,7 @@ export default function Hero() {
           </p>
 
           <div className="hero__actions">
-            <a className="btn btn--primary" href={WHATS_LINK} target="_blank" rel="noreferrer">
+            <a className="btn btn--primary" href="https:/wa.me/5551991222935" target="_blank" rel="noreferrer">
               Falar no WhatsApp
             </a>
             <a className="btn btn--ghost" href="#servicos">

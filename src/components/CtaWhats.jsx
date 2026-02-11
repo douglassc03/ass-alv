@@ -14,7 +14,7 @@ export default function CtaWhats() {
             <strong>potencializar</strong> seus resultados.
           </p>
 
-          <a className="btn btn--primary" href={WHATS_LINK} target="_blank" rel="noreferrer">
+          <a className="btn btn--primary" href="https:/wa.me/5551991222935" target="_blank" rel="noreferrer">
             Falar no WhatsApp
           </a>
 

@@ -1,5 +1,5 @@
 const WHATS_LINK =
-  "https://wa.me/55SEUNUMEROAQUI?text=Oi!%20Quero%20anunciar%20e%20vender%20mais.";
+  "https://wa.me/5551991222935";
 
 export default function Header() {
   return (
